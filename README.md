@@ -6,4 +6,4 @@ If you source the file, MR-GRIP will run with the default methods in the `mr()` 
 
 Alternatively you can run the function directly with
 `mr_grip(b_exp, b_out, se_exp, se_out, parameters)`
-# mr-grip
+
